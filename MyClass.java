@@ -1,7 +1,7 @@
 public class MyClass {
-    public static void main(String args[]) {
-     // Algoritma 1
-        int[] max = new int[10];
+    public static void main(String[] args) {
+        // Algoritma 1
+        int[] max = {20,21,23,0,0,0,8}; // NIM mahasiswa
         int a = 10;
 
         System.out.println("-----------Algoritma 1--------------");
@@ -13,7 +13,7 @@ public class MyClass {
         }
 
         // Algoritma 2
-        int[] linearSearch = new int[10];
+        int[] linearSearch = {20,21,23,0,0,0,8}; // NIM mahasiswa
         int b = 5;
         int q = 0;
         System.out.println("-----------Algoritma 2--------------");
@@ -28,7 +28,7 @@ public class MyClass {
         }
 
         // Algoritma 3
-        int[] i1 = new int[20];
+        int[] i1 = {20,21,23,0,0,0,8}; // NIM mahasiswa
         int[] j = new int[30];
         int result = 0, ho = i1.length;
 
@@ -47,7 +47,7 @@ public class MyClass {
         }
 
         // Algoritma 4
-        int[] arr = {64, 34, 25, 12, 22, 11, 90};
+        int[] arr = {20,21,23,0,0,0,8}; // NIM mahasiswa
         System.out.println("-----------Algoritma 4--------------");
         int n = arr.length;
         for (int i = 0; i < n - 1; i++)
