@@ -1,7 +1,7 @@
 public class Algoritma5 {
     
     public static void main(String a[]){    
-        int[] nim = {9,14,3,2,43,11,58,22};    
+        int[] nim = {20, 21, 23, 0,0,0,8, 89};   // Nim Mahasiswa 
         System.out.println();    
             
         int n = nim.length;  
